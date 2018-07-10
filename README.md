@@ -1,2 +1,0 @@
-# cudaStudy
-Practice Cuda
