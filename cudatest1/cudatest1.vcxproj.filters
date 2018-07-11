@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <CudaCompile Include="addNum.cu">
+    <CudaCompile Include="addArray.cu">
       <Filter>源文件</Filter>
     </CudaCompile>
   </ItemGroup>
